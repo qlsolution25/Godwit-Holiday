@@ -18,20 +18,20 @@ export default function TravelNavigationMenu() {
   ];
 
   const informationPolicies = [
-    { name: 'Privacy Policy', link: "/GODWIT-HOLIDAYS/Privacy-Policies"},
-    { name: 'Cookie Policy', link: "/GODWIT-HOLIDAYS/Cookie-Policy"},
-    { name: 'Terms & Conditions', link: "/GODWIT-HOLIDAYS/Terms-And-Conditions"},
-    { name: 'Payment Policy', link: "/GODWIT-HOLIDAYS/Payment-Policy"},
+    { name: 'Privacy Policy', link: "/Godwit-Holiday/Privacy-Policies"},
+    { name: 'Cookie Policy', link: "/Godwit-Holiday/Cookie-Policy"},
+    { name: 'Terms & Conditions', link: "/Godwit-Holiday/Terms-And-Conditions"},
+    { name: 'Payment Policy', link: "/Godwit-Holiday/Payment-Policy"},
     { name: 'Key Rights under PTR', link: "/#"},
-    { name: 'Sitemap', link: "/GODWIT-HOLIDAYS/Site-Map"}
+    { name: 'Sitemap', link: "/Godwit-Holiday/Site-Map"}
   ];
 
   const servicesSupport = [
-    { name: 'About Us', link: "/GODWIT-HOLIDAYS/about-us" },
-    { name: 'Contact Us', link: '/GODWIT-HOLIDAYS/contact-us' },
-    { name: 'Our Mission', link: '/GODWIT-HOLIDAYS/Our-Mission' },
+    { name: 'About Us', link: "/Godwit-Holiday/about-us" },
+    { name: 'Contact Us', link: '/Godwit-Holiday/contact-us' },
+    { name: 'Our Mission', link: '/Godwit-Holiday/Our-Mission' },
     { name: 'Travel Insurance', link: '/#' },
-    { name: 'Social Proof', link: '/GODWIT-HOLIDAYS/Social-Proof' },
+    { name: 'Social Proof', link: '/Godwit-Holiday/Social-Proof' },
     { name: 'Foreign Travel Advice', link: 'https://www.gov.uk/foreign-travel-advice' }
   ];
 

@@ -15,7 +15,7 @@ import SocialProofPage from './Component/SocialProof';
 function App() {
   return (
     <>
-      <BrowserRouter basename="/GODWIT-HOLIDAYS">
+      <BrowserRouter basename="/Godwit-Holiday">
         <Routes>
           
           <Route path="/" element={<Home />} />
